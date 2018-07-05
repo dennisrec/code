@@ -1,4 +1,4 @@
 <?php
 
 echo 'hello_world';
-dd
+date('$format');
