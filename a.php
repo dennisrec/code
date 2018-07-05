@@ -1,4 +1,4 @@
 <?php
 
 echo 'hello_world';
-date('$format');
+# this is just a mother-fuckin test mehn
